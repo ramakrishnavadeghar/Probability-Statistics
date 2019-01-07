@@ -18,3 +18,9 @@ Sk almost always in a ragne [-4 squareroot(K),+4 squareroot(K)]
 
 What is probability theory?
 It is the math involved in proving (precise virsion of ) the statements above
+
+Calculating the probabilities is better because 
+
+  it provides a precise answer
+  
+  it much faster then Monte Carlo Simulations.
