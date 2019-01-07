@@ -15,3 +15,6 @@ Sk=x1+x2+....+xk
 xi=-1 with the probability 1/2,xi=+1 with probability 1/2
 
 Sk almost always in a ragne [-4 squareroot(K),+4 squareroot(K)]
+
+What is probability theory?
+It is the math involved in proving (precise virsion of ) the statements above
