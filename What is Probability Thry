@@ -3,3 +3,15 @@ What is Probabiliity Theory?
 Probability is a mathamatical framework for computing the probability of complex events.
 
 We will use the pseudo random number generators in numpy to simulate the coin flips
+
+#Generate the sum of k coins flips, repeat that n times
+def generate_counts(k=1000,n=100):
+  X=2*(random.rand(k,n)>0.5)-1 #Generate the kXn matrix of +-1 rando  
+  s=sum(X,axis=0)
+  return S
+
+
+Sk=x1+x2+....+xk
+xi=-1 with the probability 1/2,xi=+1 with probability 1/2
+
+Sk almost always in a ragne [-4 squareroot(K),+4 squareroot(K)]
