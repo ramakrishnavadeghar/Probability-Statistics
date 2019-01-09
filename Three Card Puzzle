@@ -63,3 +63,37 @@ Okey, so as we saw, the simulation does not agree with the argument we made befo
 
 In the simulation, the two sides have the same color about twice the number of times that they have number different colors.
 
+So they have about twice the probability.
+
+So what does that mean?
+ 
+it means that you, if you play this game, you are twice as likely to lose a doller as you  are to win.
+
+ane because of that, on average, you are going to lose 33 cents per iteration because you lose $1 with probability 2/3, 
+
+and you gain a dollar with probabilty 1/3.
+
+So your losing 33 cents on each itteration.
+
+so heres an alternative argument.
+
+So if we pick card at random, then 2/3 of the time we pick a card where the two sides have the same color, and 
+only 1/3 times where the color is different.
+
+So basically explains what we saw.
+
+So supposedly now we understand the game but the problem is original orgument is also sounds convincing but it is wrong.
+
+So how can we distinguish between this argument.
+
+And another argument and say which one is right without doing a simulation?
+
+Okay, simulation is fine, but sometimes, as you saw already, running a simulation to answer a probability question
+is hard, you have to run for a long, long time, and you get only an approximate result, okay?
+
+So, to be sure that we need, the argument is correct, we need more formalism.
+
+That's the point of this story.
+
+We need concepts like outcome and event, and those are things that we're going to start talking.
+
