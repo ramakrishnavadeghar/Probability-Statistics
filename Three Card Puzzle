@@ -41,6 +41,25 @@ So let's see this one.
 
 Yeah, actually I got red, so I pay you $1.
 
+So to decide what is the probability of winning a dollar or lossing a dollar, let's use a Monte Carlo Simulation.
 
+So we're going  to have a little program that generates at random an order for the cards, chooses one of the cards.
 
+And then chooses a side for the card, and then prints out.
+
+the card and the outcome of whether which side wins, okey?
+
+So earch time I am getting slightly different outcomes.
+
+It shows that different is 17 times, and same is 33 times.
+
+So clearly, different happens much fewer times then same, okey?
+
+So  I basically have a game that is, even as simple as it is, it's going  to, it's unfair to you.
+
+And I'm going to gain money on average from playing it.
+
+Okey, so as we saw, the simulation does not agree with the argument we made before. the argument must be false.
+
+In the simulation, the two sides have the same color about twice the number of times that they have number different colors.
 
