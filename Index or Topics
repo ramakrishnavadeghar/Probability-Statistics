@@ -76,5 +76,36 @@
     d)exponential distribution
     e)Normal Distribution
     f)Gaussian Probability
+    
+10.Inequalities and Limit Theorams
+    a)Markov's Inequality
+    b)Chebyshev Inequalities
+    c)Law of Large numbers
+    d)Moment Generating Functions
+    e)Chernoff Bound
+    f)Central Limit Theoram
+    g)Central Limit Theoram Proof
+    
+11.Statistical, Parameter Estimation and Confidance Interval
+    a)Statistics Engagement
+    b)Mean & Variance Estimation
+    c)Variance Estimation
+    d)Unbiased Variance Estimation
+    e)Estimating Standard Deviation
+    f)Confidance Interval on Mean
+    g)Confidance Interval-Sigma Unknown
+12. Regression and PCA
+    a)Review of Linear Algebra
+    b)Matrix Notation and Operations
+    c)Solving a system of linear equations
+    d)linear regression
+    e)Polynomial regression
+    f)Regresion towards the mean
+    g)Principle component Analysis enggagement 
  
-  
+ 13) Hypothesis Testing
+    a)Hypothesis Testing
+    b)Hypothesis Testing P-Values
+    c)Tea Testing
+    d)Hypothesis Testing-Z and T tests
+    
