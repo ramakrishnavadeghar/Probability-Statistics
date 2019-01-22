@@ -12,3 +12,69 @@
   b) Basic Sets (Some simple sets)
   c)Venn Diagrams (Visualising sets)
   d)Relations Problem Sets (Set Relations)
+  e)Operations Problem Sets (Set Operations)
+  f)Cartesion Products Problem Sets(Tuple & Products)
+  g)2.7 russells Para dox engagement(Russell's Paradox)
+  
+3.Counting:
+
+    a)Overview
+    b)Set Size
+    c)Disjoint Unions
+    e)General Unions
+    g)Cartesion Powers
+    h)Variations Powers(Counting Cartesion Powers)
+    i)Trees engagements(Counting Trees)
+
+4.Combinatorics
+    a)Overview
+    b)Permutations
+    c)Partial Permutations
+    d)Combinations
+    e)Applications of Binomial Coefficiants
+    f)Properties of Binomial Coefficiants
+    g)Binomial Thoram
+    f)Multinomials 
+
+5. Probability Introduction
+    a)Probability
+    b)Distribution Types
+    c)Events
+    d)Repeated Experiments
+    e)Games of chance
+    f)Axiomatic formulation
+    g) Inqualities
+6. Conditional Probability
+    a)Conditional Probability
+    b)Independance
+    c)Sequential Probablity (Sequences)
+    d)Total Probability
+    e)Boyes Rule
+7. Random Variables, Expectation and variance
+    a)Random Variables
+    b)Cumulative Distribution functions
+    c)Expectation
+    d)Variable modification
+    e)Expectation of Functions
+    f)Variance 
+    g)Two Variables
+    h)Linearity of expectations
+    l)Covariance
+
+8.Discrete Distribution Families
+    a)Distribution Introduction
+    b)Bernoulli Distribution
+    c)Binomial Distribution
+    d)Poisson Distribution
+    e)Geometric Distribution
+    f)Geometric Distribution Examples
+    
+9.Continuous Distribution Families
+    a)Continuous Distributions
+    b)Functions of Random Variables
+    c)Uniform Distribution
+    d)exponential distribution
+    e)Normal Distribution
+    f)Gaussian Probability
+ 
+  
